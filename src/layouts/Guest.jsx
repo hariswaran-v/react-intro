@@ -6,7 +6,7 @@ const GuestLayout = () => {
     <div className="bg-gray-300 min-h-screen">
       <TheNavbar />
 
-      <Outlet />    
+      <Outlet />
     </div>
   );
 };
