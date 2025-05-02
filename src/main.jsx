@@ -1,5 +1,37 @@
 import { createRoot } from "react-dom/client";
 import "./index.css";
-import App from "./App.jsx";
+import {
+  BrowserRouter,
+  Route,
+  RouterProvider,
+  createBrowserRouter,
+} from "react-router-dom";
+import HomePage from "./pages/HomePage.jsx";
+import AboutPage from "./pages/AboutPage.jsx";
+import ContactPage from "./pages/ContactPage.jsx";
+import GuestLayout from "./layouts/Guest.jsx";
 
-createRoot(document.getElementById("root")).render(<App />);
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <GuestLayout />,
+    children: [
+      {
+        path: "/",
+        element: <HomePage />,
+      },
+      {
+        path: "/about",
+        element: <AboutPage />,
+      },
+      {
+        path: "/contact",
+        element: <ContactPage />,
+      },
+    ],
+  },
+]);
+
+createRoot(document.getElementById("root")).render(
+  <RouterProvider router={router} />
+);
