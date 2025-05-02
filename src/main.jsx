@@ -10,6 +10,7 @@ import HomePage from "./pages/HomePage.jsx";
 import AboutPage from "./pages/AboutPage.jsx";
 import ContactPage from "./pages/ContactPage.jsx";
 import GuestLayout from "./layouts/Guest.jsx";
+import ErrorPage from "./pages/Error.jsx";
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,7 @@ const router = createBrowserRouter([
         element: <ContactPage />,
       },
     ],
+    errorElement: <ErrorPage />,
   },
 ]);
 
