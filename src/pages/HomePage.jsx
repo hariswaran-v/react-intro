@@ -16,7 +16,7 @@ const HomePage = () => {
   const blogDataTemplate = posts.map((post) => {
     return (
       <div
-        className="bg-white p-5 flex items-center space-x-10 max-w-6xl mx-auto rounded mb-5"
+        className="bg-white p-5 flex items-center space-x-10 max-w-6xl mx-auto rounded mb-5 shadow"
         key={post.id}
       >
         <img

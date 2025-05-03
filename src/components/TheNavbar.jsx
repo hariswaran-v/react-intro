@@ -11,6 +11,9 @@ const TheNavbar = () => {
           <Link to={"/"}>Home</Link>
         </li>
         <li>
+          <Link to={"/followers"}>Followers</Link>
+        </li>
+        <li>
           <Link to={"/about"}>About</Link>
         </li>
         <li>
