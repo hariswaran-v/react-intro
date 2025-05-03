@@ -4,7 +4,7 @@ const TheNavbar = () => {
   return (
     <div className="bg-indigo-500 text-white px-10 py-5 flex items-center justify-between">
       <Link to={"/"} className="font-semibold text-3xl">
-        Hari&apos; Blog!
+        Hari&apos;s Blog!
       </Link>
       <ul className="flex space-x-6 text-lg">
         <li>

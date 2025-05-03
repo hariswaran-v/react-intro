@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "UI/UX Principles Every Developer Should Know",
+    "description": "This blog covers essential UI/UX principles like visual hierarchy, consistency, and accessibility. Learn how to design interfaces that are not only beautiful but also user-friendly and functional.",
+    "image": "https://img.freepik.com/premium-vector/white-background-with-black-blue-logo-that-says-u_697205-872.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Responsive Design with Tailwind CSS",
+    "description": "Tailwind CSS makes it easy to build mobile-first responsive layouts. This article teaches you how to use utility classes to create interfaces that adapt seamlessly across devices.",
+    "image": "https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png"
+  },
+  {
+    "id": 3,
+    "title": "React Props vs State: What's the Difference?",
+    "description": "Understanding how to use props and state correctly is key to building dynamic React apps. This guide explains the difference with examples, and when to use each in real-world components.",
+    "image": "https://adityarohilla.com/wp-content/uploads/2016/06/react.png"
+  },
+  {
+    "id": 4,
+    "title": "Designing Reusable Components in React",
+    "description": "Reusable components save time and promote cleaner code. Learn how to design scalable components using props, composition, and smart folder structures in your React apps.",
+    "image": "https://i.pinimg.com/736x/f7/6b/f5/f76bf566cdf6c48fc91256cdd477986f.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Improving UX with Controlled Components",
+    "description": "Controlled components let you manage form input state with precision. Discover how to improve user experience in forms using controlled inputs, validation, and feedback in React.",
+    "image": "https://trudo.tech/wp-content/uploads/2022/03/Key-Components-for-Designing-Mobile-App.png"
+  },
+  {
+    "id": 6,
+    "title": "JavaScript ES6 Features Every Developer Should Know",
+    "description": "Get familiar with ES6 features like arrow functions, destructuring, and template literals that make JavaScript more concise and readable.",
+    "image": "https://blog.logrocket.com/wp-content/uploads/2020/11/es6-features-every-developer-should-know.png"
+  },
+  {
+    "id": 7,
+    "title": "Dark Mode Design: Best Practices",
+    "description": "Learn how to design beautiful and accessible dark mode interfaces, focusing on color contrast, readability, and theme toggling techniques.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/format:webp/1*GH9u84U-vnMkq_z5jJZ5xg.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Mastering Flexbox in CSS",
+    "description": "Flexbox is a powerful layout model. This guide walks through the most important properties with visual examples to help you create flexible layouts.",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s7pD6Xs6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/7zsmlm1m2sugflx1nzmn.png"
+  },
+  {
+    "id": 9,
+    "title": "State Management in React with Redux",
+    "description": "Redux helps manage complex application states in React. Learn how to set up Redux, dispatch actions, and access state using selectors.",
+    "image": "https://redux.js.org/img/redux-logo-landscape.png"
+  },
+  {
+    "id": 10,
+    "title": "Creating Smooth Animations with Framer Motion",
+    "description": "Framer Motion brings animation to React apps with ease. This article shows how to animate components, transitions, and layout changes.",
+    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*zN8vJbLtOJzNCh_2vv5i6Q.png"
+  }
+]
