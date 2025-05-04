@@ -7,7 +7,7 @@ const FollowersCard = ({
 }) => {
   return (
     <div
-      className="bg-white p-10 rounded shadow text-center mb-4"
+      className="bg-gray-600 p-10 rounded shadow text-white text-center mb-4"
       //   key={iteration}
     >
       <img

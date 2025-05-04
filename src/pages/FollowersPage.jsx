@@ -15,9 +15,9 @@ const FollowersPage = () => {
           image="https://i.pinimg.com/736x/4d/e4/df/4de4dfdbff4e0c52e92dea6f3467c552.jpg"
         />
         <FollowersCard
-          name="Hariswaran"
-          role="Developer"
-          image="https://i.pinimg.com/736x/7b/cc/bd/7bccbdb34cc49ed6da25efc141977ca4.jpg"
+          name="Cristiano Ronaldo "
+          role="Football player"
+          image="https://i.pinimg.com/736x/01/e5/de/01e5de8cc2feb59601ab5a0c9470e8a3.jpg"
         />
         <FollowersCard
           name="Ajith"

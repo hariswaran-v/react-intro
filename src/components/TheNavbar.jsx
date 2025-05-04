@@ -6,7 +6,7 @@ const TheNavbar = () => {
       <Link to={"/"} className="font-semibold text-3xl">
         Hari&apos;s Blog!
       </Link>
-      <ul className="flex space-x-6 text-lg">
+      <ul className="flex space-x-6 ">
         <li>
           <Link to={"/"}>Home</Link>
         </li>
